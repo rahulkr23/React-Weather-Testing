@@ -1,0 +1,9 @@
+body{
+    display: grid;
+    place-items: center;
+   margin-top: 40vh;
+   background-color: brown;
+}
+.inputData{
+    padding: 20px 30px;
+}
